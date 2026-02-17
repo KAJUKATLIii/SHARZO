@@ -109,7 +109,7 @@ DEVELOPER
 
 Created by: KAJUKATLIii
 
-Join our community: https://discord.gg/ndw3XAbhrbuf
+Join our community: https://discord.gg/hAkgCwvGuE
 
 --------------------------------------------------------------------------------
 SUPPORT
