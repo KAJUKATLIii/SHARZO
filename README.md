@@ -109,7 +109,7 @@ DEVELOPER
 
 Created by: KAJUKATLIii
 
-Join our community: https://discord.gg/hAkgCwvGuE
+Join our community: [https://discord.gg/hAkgCwvGuE](https://discord.gg/Vyq2hC6BuN )
 
 --------------------------------------------------------------------------------
 SUPPORT
@@ -122,3 +122,4 @@ For help, feature requests, or to report issues:
 ================================================================================
                           ENJOY MIRRORING!
 ================================================================================
+
