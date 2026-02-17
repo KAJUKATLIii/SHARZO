@@ -64,7 +64,7 @@ This license shall be governed by and construed in accordance with the laws of t
 
 ### 9. Contact
 For questions about this license, please contact:
-- Discord: https://discord.gg/ndw3XAbhrbuf
+- Discord: https://discord.com/invite/hAkgCwvGuE
 
 ---
 
@@ -115,3 +115,4 @@ freely, subject to the following restrictions:
 ---
 
 **SHARZO** - by KAJUKATLIii
+
