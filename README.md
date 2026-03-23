@@ -4,7 +4,8 @@
 **Developed by KAJUKATLIii**
 
 > [!IMPORTANT]
-> FOR PREMIUM  CONTACT ME AT DISCORD ITS FREE **`DISCORD`**  **`kajukatli`**.
+> FOR PREMIUM  CONTACT ME AT DISCORD ITS FREE **`DISCORD`**  **`kajukatli.`**.
+---
 > ![Sharzo Logo](sharzo.jpg)
 > ![Sharzo Logo](sharzohud.jpg) 
 ---
