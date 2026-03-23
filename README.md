@@ -1,3 +1,4 @@
+![Sharzo Logo](icon.png) 
 # 🛸 SHARZO
 ### Precision Control & Elite Mirroring for Android
 **Developed by KAJUKATLIii**
